@@ -1,0 +1,46 @@
+#head{
+    padding-top: 2%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    text-align: center;
+    /* background-color: black; */
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.row{
+    padding-bottom: 5%;
+}
+.welcomeScreen {
+    background-color: white;
+}
+
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #E3F6FF;
+}
+.nav-item {
+    padding: 0 18px;
+}
+.nav-link {
+    font-size: 20px;
+    color: #E3F6FF;
+    font-weight: bold;
+    font-family: "Montserrat-Light";
+  }
+
+.container-fluid{
+    padding: 1% 10%;
+}
+
+#item{
+    width: 275px;
+    height: 210px;
+}
+/* #pro{
+    padding-top: 3%;
+} */
